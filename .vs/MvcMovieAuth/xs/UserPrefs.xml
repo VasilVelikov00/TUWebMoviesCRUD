@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{1430FFFC-442A-4F1E-84A2-DBC08D816EB7}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MvcMovieAuth PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/css/site.css">
+    <Files>
+      <File FileName="Views/Shared/_Layout.cshtml" Line="23" Column="53" />
+      <File FileName="Views/Movies/Index.cshtml" Line="20" Column="62" />
+      <File FileName="Models/Movie.cs" Line="37" Column="45" />
+      <File FileName="Views/Movies/Create.cshtml" Line="43" Column="77" />
+      <File FileName="Controllers/MoviesController.cs" Line="89" Column="36" />
+      <File FileName="Models/SeedData.cs" Line="29" Column="22" />
+      <File FileName="wwwroot/css/site.css" Line="77" Column="32" />
+      <File FileName="Views/Movies/Edit.cshtml" Line="42" Column="64" />
+      <File FileName="Views/Movies/Details.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Movies/Delete.cshtml" Line="48" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvcMovieAuth" expanded="True">
+            <Node name="MvcMovieAuth" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Movies" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="images" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
